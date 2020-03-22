@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    height: 60px;
+    background-color: bisque;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.wrapper {
+    overflow: hidden;
+}
+
+.menu {
+    height: 300px;
+    width: 20% ;
+    float: left;
+    
+}
+.joinbody{
+    overflow: hidden;
+    height: 300px;
+    width: 70%;
+    float: right;
+    margin-bottom: 10px;
+
+}
+.header {
+    height: 20%;
+    text-align: center;
+    padding-top: 20px;
+    background-color: bisque;
+    margin-bottom: 10px;
+}
+
+.body {
+    height: 60%;
+    text-align: center;
+    padding-top: 80px;
+    background-color: bisque;
+    
+    
+}
+
+.footer {
+    height: 40px;
+    text-align: center;
+    padding-top: 15px;
+    background-color: bisque;
+
+}
